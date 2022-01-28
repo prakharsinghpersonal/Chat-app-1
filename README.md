@@ -14,7 +14,7 @@
 
 - **Firstly Clone the Repository Using Below commands**
 ```Javascript
-git clone https://github.com/singhtushar/Chat-app.git
+git clone https://github.com/prakharsingh/Chat-app1.git
 ```
 
 - **After that open Cmd/Terminal and goto directory where the cloned files are stored**
